@@ -1,8 +1,8 @@
 # Amirhossein Tonekaboni
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserratblack&color=3384B4&lines=SAP+Business+One+Consultant;ERP+Data+Analyst;Business+Intelligence+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helveticabold&color=3384B4&lines=SAP+Business+One+Consultant;ERP+Data+Analyst;Business+Intelligence+Specialist)](https://git.io/typing-svg)
 
-**ERP Consultant transitioning to Data Analyst with 5+ years in Enterprise Resource Planning implementations, including SAP Business One, focused on supply chain and manufacturing systems. Proficient in Microsoft SQL, Excel, Power BI, and Python for data analysis and process improvement, with experience in user training and cross-functional collaboration. Ready to collaborate on Data Analysis and SAP Business One projects.**
+**ERP Consultant transitioning to Data Analyst with 5+ years in Enterprise Resource Planning implementations, including SAP Business One, focused on supply chain and manufacturing systems. Proficient in Microsoft SQL, Excel, Power BI, and Python for data analysis and process improvement, with experience in user training and cross-functional teamwork. Ready to collaborate on Data Analysis and ERP projects.**
 <br>
 
 ### Contact
@@ -13,11 +13,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atonekaboni.github.io)
 
 ### Key Skills
-[![SAP Badge](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://atonekaboni.github.io)
+[![SAP Badge](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)]()
 [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi)](https://atonekaboni.github.io)
-[![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](https://atonekaboni.github.io)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://atonekaboni.github.io)
+![MicrosofSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-D14836?style=for-the-badge&logo=sql&logoColor=white)
 [![Excel Badge](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&labelColor=black&logo=Microsoft%20Excel)](https://atonekaboni.github.io)
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python)](https://atonekaboni.github.io)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=yellow)](https://atonekaboni.github.io)
+<!-- [![SQL Badge](https://img.shields.io/badge/-SQL-D14836?style=for-the-badge&labelColor=black)](https://atonekaboni.github.io) -->
 
 #### Data Analysis & Database
   &nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" style="width: 22px;">&nbsp;&nbsp;&nbsp;<b>Power BI:</b> DAX, Data Modeling<br>
