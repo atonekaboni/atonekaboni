@@ -22,12 +22,13 @@
 #### Data Analysis & Database
   &nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" style="width: 22px;">&nbsp;&nbsp;&nbsp;<b>Power BI:</b> DAX, Data Modeling<br>
   &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 22px;">&nbsp;&nbsp;&nbsp;<b>Python:</b> Pandas, Matplotlib<br>
+  &nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/1104/1104982.png" alt="ERD" style="width: 22px;">&nbsp;&nbsp;&nbsp;<b>Database Design</b> (ERD)<br>
   &nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" style="width: 20px;">&nbsp;&nbsp;&nbsp;<b>Excel:</b> Power Query<br>
   &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" style="width: 22px;">&nbsp;&nbsp;&nbsp;<b>SQL Server</b><br>
   &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 22px;">&nbsp;&nbsp;&nbsp;<b>MySQL</b>
 
 #### ERP Implementation & Business Analysis
-  &nbsp;&nbsp;&nbsp;<img src="https://www.sap.com/etc/designs/sap/public/images/favicon.ico" alt="SAP" style="width: 30px;">&nbsp;<b>SAP Business One</b><br>
+  &nbsp;&nbsp;&nbsp;<img src="https://www.sap.com/etc/designs/sap/public/images/favicon.ico" alt="SAP" style="width: 30px;">&nbsp;<b>[SAP Business One](https://github.com/atonekaboni/SBO)</b><br>
   &nbsp;&nbsp;&nbsp;<img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="Visual Paradigm" style="width: 22px;">&nbsp;&nbsp;&nbsp;BPMN Modeling<br>
   &nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Noun_Project_process_icon_2519390.svg" alt="Celonis" style="width: 21px;">&nbsp;&nbsp;&nbsp;Process Mining<br>
   &nbsp;&nbsp;&nbsp;<img src="https://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg" alt="Azure" style="width: 22px;">&nbsp;&nbsp;&nbsp;Azure DevOps
