@@ -9,8 +9,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonekaboni)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atonekaboni@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-424242?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SBi_GCtDx3gazX9QnIyVmiaz2UTVmOU7/view?usp=sharing)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atonekaboni.github.io)
+[![Resume](https://img.shields.io/badge/Resume-424242?style=for-the-badge&logo=googledocs&logoColor=white)](https://atonekaboni.github.io/resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atonekaboni.github.io)
 
 ### Key Skills
 [![SAP Badge](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/atonekaboni/SBO/)
