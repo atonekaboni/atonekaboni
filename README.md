@@ -4,7 +4,7 @@
 
 **ERP Consultant transitioning to Data Analyst with 5+ years in Enterprise Resource Planning implementations, including SAP Business One, focused on supply chain and manufacturing systems. Proficient in Microsoft SQL, Excel, Power BI, and Python for data analysis and process improvement, with experience in user training and cross-functional collaboration. Ready to collaborate on Data Analysis and SAP Business One projects.**
 <br>
-<br>
+
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonekaboni)
@@ -13,11 +13,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atonekaboni.github.io)
 
 ### Key Skills
-![SAP Badge](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi)
-![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
-![Excel Badge](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&labelColor=black&logo=Microsoft%20Excel)
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python)
+[![SAP Badge](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://atonekaboni.github.io)
+[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi)](https://atonekaboni.github.io)
+[![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](https://atonekaboni.github.io)
+[![Excel Badge](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&labelColor=black&logo=Microsoft%20Excel)](https://atonekaboni.github.io)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python)](https://atonekaboni.github.io)
 
 #### Data Analysis & Database
   &nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" style="width: 22px;">&nbsp;&nbsp;&nbsp;<b>Power BI:</b> DAX, Data Modeling<br>
