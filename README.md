@@ -13,7 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atonekaboni.github.io)
 
 ### Key Skills
-[![SAP Badge](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://atonekaboni.github.io)
+[![SAP Badge](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/atonekaboni/SBO/)
 [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi)](https://atonekaboni.github.io)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://atonekaboni.github.io)
 [![MicrosofSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-D14836?style=for-the-badge&logo=sql&logoColor=white)](https://atonekaboni.github.io)
