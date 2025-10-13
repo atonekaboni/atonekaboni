@@ -33,7 +33,7 @@
   &nbsp;&nbsp;&nbsp;<img src="https://www.sap.com/etc/designs/sap/public/images/favicon.ico" alt="SAP" style="width: 30px;">&nbsp;<b>[SAP Business One](https://github.com/atonekaboni/SBO)</b> <a href="https://github.com/atonekaboni/SBO" target="_blank"><img src="https://www.svgrepo.com/show/510970/external-link.svg" alt="External Link" style="width: 16px; opacity: 0.7; vertical-align: middle; margin-right: 4px;">
 </a><br>
   &nbsp;&nbsp;&nbsp;<img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="Visual Paradigm" style="width: 22px;">&nbsp;&nbsp;&nbsp;BPMN Modeling<br>
-  &nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Noun_Project_process_icon_2519390.svg" alt="Celonis" style="width: 21px;">&nbsp;&nbsp;&nbsp;Process Mining<br>
+  &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3cce9f2-c031-4461-a7fc-ca0c3b9dcf24" alt="Celonis" style="width: 21px;">&nbsp;&nbsp;&nbsp;Process Mining<br> 
   &nbsp;&nbsp;&nbsp;<img src="https://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg" alt="Azure" style="width: 22px;">&nbsp;&nbsp;&nbsp;Azure DevOps
 
 ### Featured Projects
@@ -41,8 +41,8 @@ Check out the **[Portfolio](https://atonekaboni.github.io)** <a href="https://at
 </a>
 
 - [**Healthcare Operations Analysis**](https://github.com/atonekaboni/healthcare-analytics) - SQL-based investigation for strategic decision-making and annual reporting  
-- [**Cross-platform Sales Analysis**](https://github.com/atonekaboni/Toy_Store/) - Interactive dashboards using Power BI, Python, and Excel with business insights
-- [**Python Coding Challenge**](https://github.com/atonekaboni/Python_Challenge) - 15 real-world business problems with NumPy and pandas across different industries
-- [**HR Employee Attrition Analysis**](https://github.com/atonekaboni/HR) - Comprehensive Power BI dashboard with workforce insights  
+- [**Sales Revenue Intelligence**](https://github.com/atonekaboni/Toy_Store/) - Interactive dashboards using Power BI, Python, and Excel with business insights
+- [**HR Employee Attrition Analysis**](https://github.com/atonekaboni/HR) - Comprehensive Power BI dashboard with workforce insights
+- [**Python Coding Challenge**](https://github.com/atonekaboni/Python_Challenge) - 15 real-world business problems with NumPy and pandas across different industries 
 - [**4-Tool Analysis Projects**](https://github.com/atonekaboni/Month-Over-Month) - Date range matching and month-over-month sales trend analysis
 
