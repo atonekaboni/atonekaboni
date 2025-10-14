@@ -1,8 +1,8 @@
 # Amirhossein Tonekaboni
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helveticabold&color=3384B4&lines=SAP+Business+One+Consultant;ERP+Data+Analyst;Business+Intelligence+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helveticabold&color=3384B4&lines=ERP+Data+Analyst;SAP+Business+One+Consultant;Business+Intelligence+Specialist)](https://git.io/typing-svg)
 
-**ERP Consultant transitioning to Data Analyst with 5+ years in Enterprise Resource Planning implementations, including SAP Business One, focused on supply chain and manufacturing systems. Proficient in Microsoft SQL, Excel, Power BI, and Python for data analysis and process improvement, with experience in user training and cross-functional teamwork. Ready to collaborate on Data Analysis and ERP projects.**
+**ERP Consultant transitioning to Data Analytics with 5+ years in implementations, including SAP Business One, focused on manufacturing and supply chain management. Leveraging SQL, Python, Excel, and Power BI to transform data into business insights and enhance process efficiency. Ready to collaborate on Data Analysis and ERP projects.**
 <br>
 
 ### Contact
@@ -43,6 +43,7 @@ Check out the **[Portfolio](https://atonekaboni.github.io)** <a href="https://at
 - [**Healthcare Operations Analysis**](https://github.com/atonekaboni/healthcare-analytics) - SQL-based investigation for strategic decision-making and annual reporting  
 - [**Sales Revenue Intelligence**](https://github.com/atonekaboni/Toy_Store/) - Interactive dashboards using Power BI, Python, and Excel with business insights
 - [**HR Employee Attrition Analysis**](https://github.com/atonekaboni/HR) - Comprehensive Power BI dashboard with workforce insights
+- [**SAP Business One Sales Automation**](https://github.com/atonekaboni/SBO_Sales_AI_Automation/) - AI-powered sales intelligence via n8n, Google Sheets, and Telegram
 - [**Python Coding Challenge**](https://github.com/atonekaboni/Python_Challenge) - 15 real-world business problems with NumPy and pandas across different industries 
 - [**4-Tool Analysis Projects**](https://github.com/atonekaboni/Month-Over-Month) - Date range matching and month-over-month sales trend analysis
 
