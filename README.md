@@ -1,8 +1,8 @@
 # Amirhossein Tonekaboni
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helveticabold&color=3384B4&lines=ERP+Data+Analyst;SAP+Business+One+Consultant;Business+Intelligence+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helveticabold&color=3384B4&lines=BI+Developer;SAP+Business+One+Consultant;Business+Intelligence+Specialist)](https://git.io/typing-svg)
 
-**ERP Consultant transitioning to Data Analytics with 5+ years in implementations, including SAP Business One, focused on manufacturing and supply chain management. Leveraging SQL, Python, Excel, and Power BI to transform data into business insights and enhance process efficiency. Ready to collaborate on Data Analysis and ERP projects.**
+**BI Developer with 5+ years in ERP implementations and business analysis, specializing in SAP Business One for manufacturing and supply chain systems. Experienced in collaborating with cross-functional teams and skilled in Excel, Python, SQL databases, and Power BI for reporting, dashboard development, data analytics, and process optimization.**
 <br>
 
 ### Contact
@@ -40,8 +40,9 @@
 Check out the **[Portfolio](https://atonekaboni.github.io)** <a href="https://atonekaboni.github.io" target="_blank"><img src="https://www.svgrepo.com/show/510970/external-link.svg" alt="External Link" style="width: 16px; opacity: 0.7; vertical-align: middle; margin-right: 4px;">
 </a>
 
-- [**Healthcare Operations Analysis**](https://github.com/atonekaboni/healthcare-analytics) - SQL-based investigation for strategic decision-making and annual reporting  
-- [**Sales Revenue Intelligence**](https://github.com/atonekaboni/Toy_Store/) - Interactive dashboards using Power BI, Python, and Excel with business insights
+- [**Bank Customer Churn ETL & BI Pipeline**](https://github.com/atonekaboni/bank-churn-pipeline/) - Built using Python, PostgreSQL, Docker, and Metabase
+- [**Healthcare Operations Analysis**](https://github.com/atonekaboni/healthcare-analytics) - SQL-based investigation for strategic decision-making and annual reporting
+- [**Sales Revenue Intelligence**](https://github.com/atonekaboni/Toy_Store/) - Interactive dashboards using Power BI, Python, and Excel with business insights 
 - [**HR Employee Attrition Analysis**](https://github.com/atonekaboni/HR) - Comprehensive Power BI dashboard with workforce insights
 - [**SAP Business One Sales Automation**](https://github.com/atonekaboni/SBO_Sales_AI_Automation/) - AI-powered sales intelligence via n8n, Google Sheets, and Telegram
 - [**Python Coding Challenge**](https://github.com/atonekaboni/Python_Challenge) - 15 real-world business problems with NumPy and pandas across different industries 
