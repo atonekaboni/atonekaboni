@@ -1,8 +1,8 @@
 # Amirhossein Tonekaboni
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helveticabold&color=3384B4&lines=BI+Developer;SAP+Business+One+Consultant;Business+Intelligence+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helveticabold&color=3384B4&lines=BI+Analyst;SAP+Business+One+Consultant;Business+Intelligence+Specialist)](https://git.io/typing-svg)
 
-**BI Developer with 5+ years in ERP implementations and business analysis, specializing in SAP Business One for manufacturing and supply chain systems. Experienced in collaborating with cross-functional teams and skilled in Excel, Python, SQL databases, and Power BI for reporting, dashboard development, data analytics, and process optimization.**
+**BI Analyst with 5+ years in ERP implementations and business analysis, specializing in SAP Business One for manufacturing and supply chain systems. Experienced in collaborating with cross-functional teams and skilled in Excel, Python, SQL databases, and Power BI for reporting, dashboard development, data analytics, and process optimization.**
 <br>
 
 ### Contact
