@@ -34,7 +34,7 @@
   &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3cce9f2-c031-4461-a7fc-ca0c3b9dcf24" alt="Celonis" style="width: 21px;">&nbsp;&nbsp;&nbsp;Process Mining<br> 
 <br>
 ### Tools & Products
-[**ExcelAid - Excel Dates**](https://github.com/atonekaboni/ExcelAid) - Windows desktop app for **Shamsi ↔ Gregorian date conversion** and **date differences** in Excel files.
+[**Excel Dates**](https://github.com/atonekaboni/excel-dates) - Windows desktop app for **Shamsi ↔ Gregorian date conversion** and **date differences** in Excel files.
 > No macros · No add-ins · No formulas · Free to try · Built with Python and PyQt6
 
 ### Data Projects
