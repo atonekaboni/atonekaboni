@@ -33,7 +33,7 @@
   &nbsp;&nbsp;&nbsp;<img src="assets/VisualParadigm.png" alt="Visual Paradigm" style="width: 22px;">&nbsp;&nbsp;&nbsp;BPMN Modeling<br>
   &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3cce9f2-c031-4461-a7fc-ca0c3b9dcf24" alt="Celonis" style="width: 21px;">&nbsp;&nbsp;&nbsp;Process Mining<br> 
 
----
+<br>
 
 ### Tools & Products
 - [**ExcelAid**](https://github.com/atonekaboni/excel-dates) - Windows desktop app for **Shamsi ↔ Gregorian date conversion** and **date differences** in Excel files.
