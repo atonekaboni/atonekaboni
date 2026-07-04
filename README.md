@@ -8,7 +8,7 @@
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonekaboni)
 [![Contact](https://img.shields.io/badge/Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atonekaboni@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-424242?style=flat-square&logo=googledocs&logoColor=white)](https://atonekaboni.ir/assets/docs/Tonekaboni-EN.pdf)
+[![Resume](https://img.shields.io/badge/Resume-424242?style=flat-square&logo=googledocs&logoColor=white)](https://atonekaboni.ir/resume/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://atonekaboni.ir)
 
 ### Key Skills
@@ -34,10 +34,14 @@
   &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3cce9f2-c031-4461-a7fc-ca0c3b9dcf24" alt="Celonis" style="width: 21px;">&nbsp;&nbsp;&nbsp;Process Mining<br> 
 
 ### Tools & Products
-- [**ExcelAid**](https://github.com/atonekaboni/excel-dates) - Windows desktop app for **Shamsi ↔ Gregorian date conversion** and **date differences** in Excel files.
- > No macros · No add-ins · No formulas · Free to try · Built with Python and PyQt6
+- [**Check Entry**](https://atonekaboni.ir/check-entry/) - Check Payments Automation
+  > Desktop tool for SAP Business One that enables batch posting of incoming checks (draft or final) with direct Shamsi-to-Gregorian date conversion via Service Layer (HANA & SQL).
+
 - [**Batch Transfer**](https://atonekaboni.ir/products/) - Warehouse Inventory Transfer Automation
-- [**Check Entry**](https://atonekaboni.ir/products/) - Check Payments Automation
+  > Desktop tool for batch stock transfer posting (draft or final) with batch number to SAP Business One via Service Layer (HANA & SQL).
+
+- [**ExcelAid**](https://atonekaboni.ir/products/) - Date Manager: Shamsi/Gregorian Date Conversion, Calendar, Task Manager & Due Date Automation
+  > No Excel macros · No add-ins · No formulas · Free to try · Built with Python and PyQt6
 
 ### Data Projects
 - [**Bank Customer Churn Analytics & BI Pipeline**](https://github.com/atonekaboni/bank-churn-pipeline/) - Built using Python, PostgreSQL, Docker, and Metabase
