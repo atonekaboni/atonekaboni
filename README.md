@@ -37,11 +37,11 @@
 - [**Check Entry**](https://atonekaboni.ir/check-entry/) - **Check Payments Automation**
   > Desktop tool for SAP Business One that enables batch posting of incoming checks (draft or final) with direct Shamsi-to-Gregorian date conversion via Service Layer (HANA & SQL).
 
-- [**Batch Transfer**](https://atonekaboni.ir/products/) - **Warehouse Inventory Transfer Automation**
-  > Desktop tool for batch stock transfer posting (draft or final) with batch number to SAP B1 via Service Layer (HANA & SQL).
-
-- [**ExcelAid**](https://atonekaboni.ir/products/) - **Date Manager: Shamsi/Gregorian Date Conversion, Calendar, Task Manager & Due Date Automation**
+- [**ExcelAid**](https://atonekaboni.ir/excel-aid/) - **Shamsi/Gregorian Date Manager, Reconciliation, Check due-date, Calendar, Task Manager & Due Date Automation**
   > No Excel macros · No add-ins · No formulas · Free to try · Built with Python and PyQt6
+
+- [**Batch Transfer**](https://atonekaboni.ir/products/) - **Warehouse Inventory Transfer Automation** - Available Soon
+  > Desktop tool for batch stock transfer posting (draft or final) with batch number to SAP B1 via Service Layer (HANA & SQL).
 
 ### Data Projects
 - [**Bank Customer Churn Analytics & BI Pipeline**](https://github.com/atonekaboni/bank-churn-pipeline/) - Built using Python, PostgreSQL, Docker, and Metabase
