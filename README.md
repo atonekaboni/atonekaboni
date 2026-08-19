@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=3384B4&lines=BI+Analyst;SAP+Business+One+Consultant;Business+Intelligence+Specialist)](https://git.io/typing-svg)
 
-**BI Analyst and Product Developer with 5+ years in ERP implementations and business analysis, specializing in SAP Business One for manufacturing and supply chain systems. Skilled in Microsoft Excel, Power BI, Crystal Reports, Python and SQL for reporting, data visualization, analytics, and process optimization.**
+**SAP Business One Consultant, BI Analyst and Product Developer with 6+ years in ERP implementations and business analysis, specializing in SAP Business One for manufacturing and supply chain systems. Skilled in Microsoft Excel, Power BI, Crystal Reports, Python and SQL for reporting, data visualization, analytics, and process optimization.**
 <br>
 
 ### Contact
