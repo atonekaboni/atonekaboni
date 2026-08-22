@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=3384B4&lines=BI+Analyst;SAP+Business+One+Consultant;Business+Intelligence+Specialist)](https://git.io/typing-svg)
 
-**SAP Business One Consultant, BI Analyst and Product Developer with 6+ years in ERP implementations and business analysis, specializing in SAP Business One for manufacturing and supply chain systems. Skilled in Microsoft Excel, Power BI, Crystal Reports, Python and SQL for reporting, data visualization, analytics, and process optimization.**
+**SAP Business One Consultant, BI Analyst and Product Builder with 6+ years in ERP implementations and business analysis, specializing in SAP Business One for manufacturing and supply chain systems. Skilled in Microsoft Excel, Power BI, Crystal Reports, Python and SQL for reporting, data visualization, analytics, and process optimization.**
 <br>
 
 ### Contact
@@ -38,7 +38,7 @@
   > Desktop tool for SAP Business One that enables batch posting of incoming checks (draft or final) with direct Shamsi-to-Gregorian date conversion via Service Layer (HANA & SQL).
 
 - [**ExcelAid**](https://atonekaboni.ir/excel-aid/) - **Shamsi/Gregorian Date Manager, Reconciliation, Check due-date, Calendar, Task Manager & Due Date Automation**
-  > No Excel macros · No add-ins · No formulas · Free to try · Built with Python and PyQt6
+  > No Excel macros · No Excel add-ins · No Excel formulas · Free to try · Built with Python and PyQt6
 
 - [**Batch Transfer**](https://atonekaboni.ir/products/) - **Warehouse Inventory Transfer Automation** - Available Soon
   > Desktop tool for batch stock transfer posting (draft or final) with batch number to SAP B1 via Service Layer (HANA & SQL).
