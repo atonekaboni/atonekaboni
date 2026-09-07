@@ -1,6 +1,6 @@
 # Amirhossein Tonekaboni
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=3384B4&lines=BI+Analyst;SAP+Business+One+Consultant;Business+Intelligence+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=3384B4&lines=Business+Intelligence+Analyst;SAP+Business+One+Consultant;Product+Builder)](https://git.io/typing-svg)
 
 **SAP Business One Consultant, BI Analyst and Product Builder with 6+ years in ERP implementations and business analysis, specializing in SAP Business One for manufacturing and supply chain systems. Skilled in Microsoft Excel, Power BI, Crystal Reports, Python and SQL for reporting, data visualization, analytics, and process optimization.**
 <br>
@@ -34,13 +34,16 @@
   &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3cce9f2-c031-4461-a7fc-ca0c3b9dcf24" alt="Celonis" style="width: 21px;">&nbsp;&nbsp;&nbsp;Process Mining<br> 
 
 ### Tools & Products
-- [**Check Entry**](https://atonekaboni.ir/check-entry/) - **Check Payments Automation**
-  > Desktop tool for SAP Business One that enables batch posting of incoming checks (draft or final) with direct Shamsi-to-Gregorian date conversion via Service Layer (HANA & SQL).
-
 - [**ExcelAid**](https://atonekaboni.ir/excel-aid/) - **Shamsi/Gregorian Date Manager, Reconciliation, Check due-date, Calendar, Task Manager & Due Date Automation**
   > No Excel macros · No Excel add-ins · No Excel formulas · Free to try · Built with Python and PyQt6
 
-- [**Batch Transfer**](https://atonekaboni.ir/products/) - **Warehouse Inventory Transfer Automation** - Available Soon
+- [**Financial Statement Assistant**](https://atonekaboni.ir/financial-statement-assistant/) - **Multi-Client Financial Reporting & Analysis**
+  > Trial balance import · Automated financial statements · 7 financial ratios & deviation analysis · Excel/Word export with live formulas · Built with PySide6 & SQLite
+
+- [**Check Entry**](https://atonekaboni.ir/check-entry/) - **Check Payments Automation**
+  > Desktop tool for SAP Business One that enables batch posting of incoming checks (draft or final) with direct Shamsi-to-Gregorian date conversion via Service Layer (HANA & SQL).
+
+- [**Batch Transfer**](https://atonekaboni.ir/products/) - **Warehouse Inventory Transfer Automation**
   > Desktop tool for batch stock transfer posting (draft or final) with batch number to SAP B1 via Service Layer (HANA & SQL).
 
 ### Data Projects
