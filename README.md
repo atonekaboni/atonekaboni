@@ -34,6 +34,9 @@
   &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3cce9f2-c031-4461-a7fc-ca0c3b9dcf24" alt="Celonis" style="width: 21px;">&nbsp;&nbsp;&nbsp;Process Mining<br> 
 
 ### Tools & Products
+- [**B1 Toolbox**](https://atonekaboni.ir/b1-toolbox/) - **Bank Transfer, Check Clearing & Journal Entry Automation**
+  > Bulk bank transfers · Payable check clearing with dashboard · Journal entries with cost centers · Excel file or Copy/Paste import · Draft or final posting · Shamsi/Gregorian date conversion · SAP B1 via Service Layer (HANA & SQL) · Built with PySide6 & SQLite
+
 - [**ExcelAid**](https://atonekaboni.ir/excel-aid/) - **Shamsi/Gregorian Date Manager, Reconciliation, Check due-date, Calendar, Task Manager & Due Date Automation**
   > No Excel macros · No Excel add-ins · No Excel formulas · Free to try · Built with Python and PyQt6
 
