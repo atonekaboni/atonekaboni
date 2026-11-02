@@ -33,9 +33,9 @@
   &nbsp;&nbsp;&nbsp;<img src="assets/VisualParadigm.png" alt="Visual Paradigm" style="width: 22px;">&nbsp;&nbsp;&nbsp;BPMN Modeling<br>
   &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3cce9f2-c031-4461-a7fc-ca0c3b9dcf24" alt="Celonis" style="width: 21px;">&nbsp;&nbsp;&nbsp;Process Mining<br> 
 
-### Tools & Products
-- [**B1 Toolbox**](https://atonekaboni.ir/b1-toolbox/) - **Bank Transfer, Check Clearing & Journal Entry Automation**
-  > Bulk bank transfers · Payable check clearing with dashboard · Journal entries with cost centers · Excel file or Copy/Paste import · Draft or final posting · Shamsi/Gregorian date conversion · SAP B1 via Service Layer (HANA & SQL) · Built with PySide6 & SQLite
+### Tools & Products <a href="https://atonekaboni.ir/products/" target="_blank"><img src="https://www.svgrepo.com/show/510970/external-link.svg" alt="External Link" style="width: 16px; opacity: 0.7; vertical-align: middle; margin-right: 4px;">
+- [**B1 Toolbox**](https://atonekaboni.ir/b1-toolbox/) - **SAP Business One Automation Tool with Personal Assistant**
+  > Bulk A/R Invoices and Bank Transfers · Multi-Row Journal Entries · Payable Check Clearing with Dashboard and Reminders · Live validation before posting · Excel file or Copy/Paste import · Draft or Final Posting · Shamsi/Gregorian dates · SAP B1 via Service Layer (HANA & SQL) + Assistant: Tasks, Calendar, Notes, Contacts, Focus Timer · Built with PySide6 & SQLite
 
 - [**ExcelAid**](https://atonekaboni.ir/excel-aid/) - **Shamsi/Gregorian Date Manager, Reconciliation, Check due-date, Calendar, Task Manager & Due Date Automation**
   > No Excel macros · No Excel add-ins · No Excel formulas · Free to try · Built with Python and PyQt6
@@ -46,7 +46,7 @@
 - [**Check Entry**](https://atonekaboni.ir/check-entry/) - **Check Payments Automation**
   > Desktop tool for SAP Business One that enables batch posting of incoming checks (draft or final) with direct Shamsi-to-Gregorian date conversion via Service Layer (HANA & SQL).
 
-- [**Batch Transfer**](https://atonekaboni.ir/products/) - **Warehouse Inventory Transfer Automation**
+- [**Batch Transfer**](https://atonekaboni.ir/batch-transfer/) - **Warehouse Inventory Transfer Automation**
   > Desktop tool for batch stock transfer posting (draft or final) with batch number to SAP B1 via Service Layer (HANA & SQL).
 
 ### Data Projects
